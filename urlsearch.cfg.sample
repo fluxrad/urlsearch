@@ -1,0 +1,5 @@
+[main]
+sns_topic = arn:foo:bar
+search_url = http://www.google.com
+search_string = "I am a banana."
+notify_string = "Banana found!"
